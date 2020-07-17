@@ -15,3 +15,8 @@ Chagelog: 26.02.2020.
 ---------------------
 
 Redesigned Theme
+
+Changelog: 18.07.2020.
+----------------------
+
+Correction of gtk.css file
