@@ -36,5 +36,11 @@ Changelog: 09.10.2020.
 
 Correction of gtk.css file
 
+Changelog: 27.11.2020.
+----------------------
+
+Gtkrc file correction
+
+
 
 
