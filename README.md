@@ -41,6 +41,11 @@ Changelog: 27.11.2020.
 
 Gtkrc file correction
 
+Changelog: 09.01.2021.
+----------------------
+
+Redesigned Theme
+
 
 
 
