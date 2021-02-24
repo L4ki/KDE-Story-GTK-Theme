@@ -51,6 +51,10 @@ Changelog: 07.02.2021.
 
 Gtkrc file correction
 
+Changelog: 24.02.2021.
+----------------------
+
+Correction of gtk.css file and gtkrc file
 
 
 
