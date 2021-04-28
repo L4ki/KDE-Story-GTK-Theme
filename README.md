@@ -56,5 +56,10 @@ Changelog: 24.02.2021.
 
 Correction of gtk.css file and gtkrc file
 
+Changelog: 28.04.2021.
+---------------------
+
+Fixed icons: button-active, button-hover, button-insensitive, button
+
 
 
