@@ -61,5 +61,10 @@ Changelog: 28.04.2021.
 
 Fixed icons: button-active, button-hover, button-insensitive, button
 
+Changelog: 05.05.2021.
+----------------------
+
+Fixed icons: progressbar-horz.png, progressbar-vert.png (gtk-2.0 assets)
+
 
 
