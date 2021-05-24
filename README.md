@@ -66,5 +66,11 @@ Changelog: 05.05.2021.
 
 Fixed icons: progressbar-horz.png, progressbar-vert.png (gtk-2.0 assets)
 
+Changelog: 24.05.2021.
+----------------------
+
+Correction Icons: checkbox-checked-active, checkbox-checked-hover, checkbox-checked-insensitive, checkbox-checked
+
+
 
 
