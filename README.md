@@ -71,6 +71,11 @@ Changelog: 24.05.2021.
 
 Correction Icons: checkbox-checked-active, checkbox-checked-hover, checkbox-checked-insensitive, checkbox-checked
 
+Changelog: 19.06.2021.
+----------------------
+
+Fixed icon: menubar-item-active
+
 
 
 
