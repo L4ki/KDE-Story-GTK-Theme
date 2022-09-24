@@ -81,6 +81,11 @@ Changelog: 06.07.2021.
 
 Fixed icons: line.png, menu-border.png
 
+Changelog: 24.09.2022.
+---------------------
+
+Redesigned Theme
+
 
 
 
