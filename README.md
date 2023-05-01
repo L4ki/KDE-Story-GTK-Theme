@@ -87,5 +87,9 @@ Changelog: 24.09.2022.
 Redesigned Theme
 
 
+Changelog: 01.05.2023.
+---------------------
+
+Added: gtk-4.0
 
 
