@@ -1,5 +1,4 @@
-# KDE-Story-GTK-2/3-Theme
-GTK-2/3 Theme
+# KDE-Story-GTK-3/4
 
 Changelog: 11.09.2019.
 ----------------------
@@ -91,5 +90,9 @@ Changelog: 01.05.2023.
 ---------------------
 
 Added: gtk-4.0
+
+Changelog: 08.05.2023.
+---------------------
+Update: focus.png
 
 
