@@ -93,6 +93,12 @@ Added: gtk-4.0
 
 Changelog: 08.05.2023.
 ---------------------
+
 Update: focus.png
+
+Changelog: 15.05.2023.
+---------------------
+
+Update: gtk-3.0, gtk-4.0
 
 
