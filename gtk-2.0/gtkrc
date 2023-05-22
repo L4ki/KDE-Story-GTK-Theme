@@ -20,7 +20,7 @@ gtk-color-scheme = "selected_fg_color:#141622\nselected_bg_color:#009696"
 # Insensitive foreground/background
 gtk-color-scheme = "insensitive_fg_color:#141622\ninsensitive_bg_color:#141622"
 # Menus
-gtk-color-scheme = "menu_color:#191b2a"
+gtk-color-scheme = "menu_color:#202336"
 # Links
 gtk-color-scheme = "link_color:#009696\nvisited_link_color:#009696"
 # Treeview headers
@@ -28,7 +28,7 @@ gtk-color-scheme = "column_header_color:#eef8f9\nhover_column_header_color:#e0f1
 # Window decoration
 gtk-color-scheme = "window_color:#141622"
 # Tooltips
-gtk-color-scheme = "tooltip_fg_color:#becfd2\ntooltip_bg_color:#191b2a"
+gtk-color-scheme = "tooltip_fg_color:#becfd2\ntooltip_bg_color:#202336"
 
 # Set GTK settings
 gtk-auto-mnemonics              = 1
