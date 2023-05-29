@@ -106,4 +106,9 @@ Changelog: 22.05.2023.
 
 Update: gtkrc
 
+Changelog: 29.05.2023.
+---------------------
+
+Update: line.png
+
 
