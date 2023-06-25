@@ -126,5 +126,10 @@ Changelog: 19.06.2023.
 
 Update: tab-right-active.png, tab-left-active.png
 
+Changelog: 26.06.2023.
+---------------------
+
+Update: menubar-item-active.png
+
 
 
