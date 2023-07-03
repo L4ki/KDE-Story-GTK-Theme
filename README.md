@@ -134,7 +134,7 @@ Update: menubar-item-active.png
 Changelog: 03.07.2023.
 ---------------------
 
-Update: checkbox-checked-hover.pn
+Update: checkbox-checked-hover.png
 
 
 
