@@ -164,3 +164,7 @@ Changelog: 07.08.2023.
 
 Update: gtk-2.0
 
+Changelog: 14.08.2023.
+---------------------
+
+Update: gtkrc
