@@ -168,3 +168,9 @@ Changelog: 14.08.2023.
 ---------------------
 
 Update: gtkrc
+
+
+Changelog: 21.08.2023.
+---------------------
+
+Update: hacks-dark.rc
