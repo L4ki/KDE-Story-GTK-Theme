@@ -186,13 +186,13 @@ Changelog: 04.09.2023.
 
 Update: border.png
 
-Changelog: 18.09.2023.
+Changelog: 11.09.2023.
 ---------------------
 
 Update: frame-notebook.png
 
 
-Changelog: 11.09.2023.
+Changelog: 18.09.2023.
 ---------------------
 
 Update: frame.png
