@@ -2,8 +2,8 @@
 
 
 
-Changelog: 06.02.2024.
+Changelog: 20.02.2024.
 ---------------------
 
-Update: main.rc
+Update: apps.rc
 
